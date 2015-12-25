@@ -1,6 +1,6 @@
 {
+    "version": "v0.8.0",
     "repos": "https://github.com/mzabriskie/axios.git",
-    "version": "v0.7.0",
     "name": "axios",
     "main": "index.js"
 }
